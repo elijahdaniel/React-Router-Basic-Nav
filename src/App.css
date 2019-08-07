@@ -9,3 +9,11 @@
 .nav-item {
   margin-top: 1rem;
 }
+
+h2 {
+  text-align: center;
+  position: relative;
+  top: 100px;
+  color: rgb(29, 103, 172);
+  background: linear-gradient(to right, transparent, #CCC, transparent)
+}
